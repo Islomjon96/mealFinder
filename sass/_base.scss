@@ -1,6 +1,14 @@
 // COLOR VARIABLES
 $color-primary: #fff;
 
+$color-black: #000;
+
+$color-orange: #e09850;
+
+$color-grey: #ededed;
+
+$color-brown: #2d2013;
+
 // FONT VARIABLES
 $font-primary: 'Segoe UI',
 sans-serif;
@@ -119,6 +127,7 @@ html {
 body {
     font-family: $font-primary;
     position: relative;
+    background-color: #2d2013;
 }
 
 .container {
